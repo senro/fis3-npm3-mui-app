@@ -1,0 +1,30 @@
+{
+  "name": "fis3-npm3-mui-app",
+  "version": "0.0.1",
+  "description": "fis3-npm3-mui-app template",
+  "keywords": [
+    "fis3-npm3-mui-app"
+  ],
+  "author": "payegis-team <passtom@foxmail.com>",
+  "homepage": "https://github.com/payegis-team/fis3-npm3-mui-app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/payegis-team/fis3-npm3-mui-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/payegis-team/fis3-npm3-mui-app/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "egis-cookie": "lastest",
+    "egis-date-extend": "lastest",
+    "egis-director": "lastest",
+    "egis-jquery": "^1.11.3",
+    "egis-formvars": "lastest",
+    "egis-template": "lastest",
+    "egis-pagination": "lastest",
+    "egis-util": "lastest",
+    "egis-validate": "lastest",
+    "fis-mod": "^1.0.1"
+  }
+}
